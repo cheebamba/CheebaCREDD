@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Cheebamba" APIVersion="9" Name="CheebaCREDD" Description="" Version="1.0">
+    <Script Name="CheebaCREDD.lua"/>
+    <Form Name="CheebaCREDD.xml"/>
+    <ReplaceAddon Name="MarketplaceCREDD"/>
+</Addon>
